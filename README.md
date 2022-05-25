@@ -1,5 +1,5 @@
 # miniproject-
-#ABSTRACT
+# ABSTRACT
 
 Nowadays people works by referring on the time in order to start and finish their jobs and they prefer digital clocks more than
 
