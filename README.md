@@ -29,4 +29,7 @@ This project can help all workers to be on time, and this can help all workers t
 
 Also it can help to get an accurate universal time
 
+# BLOCK DIAGRAM
+
+![ZAGARA](https://user-images.githubusercontent.com/106099013/170303085-ffc6e821-0d90-4d58-943c-03330fd4a472.PNG)
 
